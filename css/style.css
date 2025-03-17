@@ -1,0 +1,42 @@
+/* header */
+header{
+    background-color:lightskyblue;
+    background-image: url(../img/pattern.png);
+}
+
+
+.logo{
+    width: 250px;
+    height: 150px;
+}
+
+/* main */
+main{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+color: gray
+}
+
+time{
+    color: grey;
+}
+
+.author{
+ font-style: italic;
+}
+
+.evidence{
+    background-color: yellow;
+
+}
+
+div{
+font-size: medium ;
+
+}
+
+section{
+    padding-top: 1%;
+}
