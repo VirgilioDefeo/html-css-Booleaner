@@ -40,3 +40,24 @@ font-size: medium ;
 section{
     padding-top: 1%;
 }
+
+table{
+    width: 100%;
+    border-collapse:collapse
+}
+
+th, td{
+    border: 1px solid #ccc;
+     padding: 10px; 
+    text-align:left; 
+}
+
+th{
+    background-color: #5dade2;
+    color:white;
+}
+
+.riga-colore{
+    background-color: lightblue;
+}
+
