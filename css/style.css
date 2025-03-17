@@ -1,63 +1,75 @@
 /* header */
-header{
-    background-color:lightskyblue;
+
+header {
+    background-color: lightskyblue;
     background-image: url(../img/pattern.png);
 }
 
 
-.logo{
+.logo {
     width: 250px;
     height: 150px;
 }
 
+/* fine header */
+
 /* main */
-main{
+main {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h4{
-color: gray
+/* info h4 */
+.grey {
+    color: gray
 }
 
-time{
+time {
     color: grey;
 }
 
-.author{
- font-style: italic;
+/* paragrafo */
+.author {
+    font-style: italic;
 }
 
-.evidence{
+/* evidenziamento paragrafo */
+.evidence {
     background-color: yellow;
 
 }
 
-div{
-font-size: medium ;
-
-}
-
-section{
+section {
     padding-top: 1%;
 }
 
-table{
+table {
     width: 100%;
-    border-collapse:collapse
+    border-collapse: collapse
 }
 
-th, td{
+th,
+td {
     border: 1px solid #ccc;
-     padding: 10px; 
-    text-align:left; 
+    padding: 10px;
+    text-align: left;
 }
 
-th{
+th {
     background-color: #5dade2;
-    color:white;
+    color: white;
 }
 
-.riga-colore{
+/* colore riga */
+.riga-colore {
     background-color: lightblue;
 }
 
+/* paragrafo */
+.space {
+    padding: 10px;
+}
+
+/* h3 footer */
+h3 {
+    margin: 0px
+}
